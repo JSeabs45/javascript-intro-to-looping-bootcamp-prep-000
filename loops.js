@@ -11,7 +11,10 @@ function forLoop(array) {
 }
 
 function whileLoop (n) {
-  while(n)
+  let countdown = n;
+  while(countdown > 0) {
+    
+  }
   
   return 'done'
 }
